@@ -1517,3 +1517,4 @@ class Nse:
 
 if __name__ == '__main__':
     Nse.create_instance()
+
